@@ -3,8 +3,8 @@ name: architecture-comparison
 description: Compare autoregressive/generative approaches (GPT-style) with predictive/JEPA approaches using Yann LeCun's framework. Help make informed architecture decisions for AI system design.
 license: MIT
 metadata:
+  version: 1.0.3408
   author: sethmblack
-  version: 1.0.3407
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - generative-vs-predictive-architecture-comparison
